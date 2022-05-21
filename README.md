@@ -13,5 +13,7 @@ The main goal of this project was to learn how to create a server using Flask
 
 
 
-I relied on MySQL to create a database, here you can see my relations <img width="428" alt="image" src="https://user-images.githubusercontent.com/57131628/169660670-b8ca5079-70b6-435b-911f-c89dc59b963d.png">
+I relied on MySQL to create a database, here you can see my relations 
+
+<img width="428" alt="image" src="https://user-images.githubusercontent.com/57131628/169660670-b8ca5079-70b6-435b-911f-c89dc59b963d.png">
 
